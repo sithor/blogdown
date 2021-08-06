@@ -1,7 +1,7 @@
 ---
 - "1"
 title: 'How strong is the relationship between scabies and acute rheumatic fever? 
-An analysis of neighbourhood factors'
+        An analysis of neighbourhood factors'
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
   ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
