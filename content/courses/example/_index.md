@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: Health Science Analytics
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Begin your journey on the road to analysing health data.
 title: "Quantitative methods for the health sciences"
 type: course
 ---
