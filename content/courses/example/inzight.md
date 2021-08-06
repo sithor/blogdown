@@ -13,7 +13,7 @@ Learn to analyse health data
 
 ## Learn
 
-{{< youtu.be wYO8QjK_ME >}}
+{{< youtube wYO8QjK_ME >}}
 
 ## Quiz
 
