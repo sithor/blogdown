@@ -6,7 +6,7 @@ type: course
 weight: 15
 ---
 
-Principles of applied epidemiology (POPLHLTH 304)
+POPLHLTH 304
 
 <!--more-->
 
