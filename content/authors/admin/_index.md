@@ -34,13 +34,13 @@ social:
   link: https://twitter.com/simonthornley30
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.nz/citations?user=ji2WVyQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/sithor
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/simon-thornley-41a175a/?originalSubdomain=nz
 superuser: true
 title: Simon Thornley
 ---
