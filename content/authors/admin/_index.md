@@ -1,27 +1,27 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: "My research interests include: epidemiology, biostatistics, nutritional epidemiology and the effects and the epidemiology of scabies infestation."
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Medicine
+    institution: University of Auckland
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MPH (Honours)
+    institution: University of Auckland
     year: 2008
-email: ""
+  - course: MBChB
+    institution: University of Auckland
+    year: 2000
+email: "s.thornley@auckland.ac.nz"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epidemiology
+- Biostatistics
+- Nutritional and dental epidemiology
+- Scabies epidemiology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Auckland
+  url: https://www.auckland.ac.nz/
+role: Senior Lecturer, Epidemiology and Biostatistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +31,21 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/simonthornley30
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sithor
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Simon Thornley
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Simon Thornley is a senior lecturer of epidemiology and biostatistics. His research interests include: nutritional and scabies epidemiology. He has also dabbled in a large range of other epidemiological topics, methods and disciplines. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
