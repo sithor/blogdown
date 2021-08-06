@@ -62,8 +62,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 
-
-
 - "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
@@ -80,10 +78,6 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-
-
-
-
 ---
 
 {{% callout note %}}
