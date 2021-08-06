@@ -1,4 +1,3 @@
-
 ---
 - "1"
 title: 'How strong is the relationship between scabies and acute rheumatic fever? 
