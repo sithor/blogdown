@@ -30,8 +30,8 @@ address:
   country: New Zealand
   country_code: NZ
 coordinates:
-  latitude: '-36.86124640744333'
-  longitude: '174.76837237494894'
+  latitude: '-36.86104923758129'
+  longitude: '174.7681261985527'
 directions: Enter Building 507 and take the stairs to Office 1137 on Floor 1
 office_hours:
   - 'Weekdays 09:00 to 17:00'
