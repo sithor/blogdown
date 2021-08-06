@@ -1,15 +1,15 @@
 ---
 date: "2021-01-01"
-title: Python basics
+title: Quantitative Methods for the Health Sciences
 type: book
-weight: 20
+weight: 15
 ---
 
-Build a foundation in Python.
+Learn to analyse health data
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 4-6 hours per week, for 16 weeks
 
 ## Learn
 
@@ -17,20 +17,13 @@ Build a foundation in Python.
 
 ## Quiz
 
-{{< spoiler text="What is the difference between lists and tuples?" >}}
-Lists
+{{< spoiler text="What is the meaning of a *P*-value?" >}}
 
-- Lists are mutable - they can be changed
-- Slower than tuples
-- Syntax: `a_list = [1, 2.0, 'Hello world']`
+The chance or probability of the observed results from our study, given or assuming
+that there is no association between exposure and disease
 
-Tuples
-
-- Tuples are immutable - they can't be changed
-- Tuples are faster than lists 
-- Syntax: `a_tuple = (1, 2.0, 'Hello world')`
 {{< /spoiler >}}
 
-{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
+{{< spoiler text="Which criteria can help determine whether an association between exposure and outcome is causal?" >}}
+Bradford-Hill criteria.
 {{< /spoiler >}}

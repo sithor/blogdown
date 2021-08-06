@@ -20,8 +20,8 @@ publishDate: "2012-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Internal Medicine Journal, 1*(1)"
-publication_short: ""
+publication: "*Internal Medicine Journal*"
+publication_short: "*Int Med J*"
 
 abstract: "Background/aim: Uncertainty exists about what dietary component is most likely to cause coronary heart disease. Over the last thirty years, attention has focused on saturated fat and salt as guilty parties. More recently, evidence suggests that excess sugar intake is more likely than either traditional factor to lead to atherosclerotic disease. Some researchers have also speculated that sugar is addictive, in a similar manner to caffeine and established drugs of abuse.
 
