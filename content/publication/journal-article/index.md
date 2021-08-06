@@ -25,7 +25,8 @@ image:
 projects: []
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
-publication_types:
+publication_types: ""
+
 - "2"
 
 publishDate: "2017-01-01T00:00:00Z"
