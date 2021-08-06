@@ -5,7 +5,7 @@ type: course
 weight: 15
 ---
 
-Learn to analyse health data
+POPLHLTH 216
 
 <!--more-->
 
