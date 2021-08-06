@@ -35,7 +35,7 @@ There are no prerequisites for the first course.
 {{< /spoiler >}}
 
 {{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+Second semester.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="inzight" >}}
