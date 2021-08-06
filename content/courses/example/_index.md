@@ -2,7 +2,7 @@
 date: "2021-01-24"
 linkTitle: Health Science Analytics
 summary: Begin your journey on the road to analysing health data.
-title: "Quantitative methods for the health sciences"
+title: "Quantitative methods and epidemiology"
 type: course
 ---
 
@@ -35,7 +35,7 @@ There are no prerequisites for the first course.
 {{< /spoiler >}}
 
 {{< spoiler text="How often do the courses run?" >}}
-Second semester.
+Quantitative methods is second semester and Applied Epidemiology first semester.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="inzight" >}}
