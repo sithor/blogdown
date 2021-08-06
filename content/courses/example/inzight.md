@@ -1,7 +1,7 @@
 ---
 date: "2021-01-01"
 title: Quantitative Methods for the Health Sciences
-type: book
+type: course
 weight: 15
 ---
 

@@ -1,9 +1,9 @@
 ---
 date: "2021-01-24"
-linkTitle: Data Science
+linkTitle: Health Science Analytics
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-title: "\U0001F4CA Learn Data Science"
-type: book
+title: "Quantitative methods for the health sciences"
+type: course
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -12,9 +12,9 @@ type: book
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
+- Fundamental {{<hl>}} analytical skills {{</hl>}}
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Gain experience with the {{<hl>}}iNZight{{</hl>}} program, including data visualization.
 
 ## Program overview
 
@@ -38,4 +38,4 @@ There are no prerequisites for the first course.
 Continuously, at your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Begin the course" cta_link="inzight" >}}
