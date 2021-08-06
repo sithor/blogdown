@@ -23,9 +23,9 @@ organizations:
   url: https://www.auckland.ac.nz/
 role: Senior Lecturer, Epidemiology and Biostatistics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+#- icon: envelope
+#  icon_pack: fas
+#  link: /#contact
 - display:
     header: true
   icon: twitter
