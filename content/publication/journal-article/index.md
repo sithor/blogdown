@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2012-09-01T00:00:00Z"
-doi: "0.1111/j.1445-5994.2012.02902.x"
+doi: "https://onlinelibrary.wiley.com/doi/10.1111/j.1445-5994.2012.02902.x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-01-01T00:00:00Z"
@@ -32,7 +32,7 @@ Results: We found relatively consistent evidence of association between markers 
 Conclusion: We suggest that advice to restrict sugar intake should be a routine part of clinical care, particularly when patients are being counselled about cardiovascular risk."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Epidemiological evidence is mounting that sugar is the primary cause of cardiovascular disease rather than saturated fat.
 
 tags:
 - Source Themes
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1445-5994.2012.02902.x
 url_code: ''
 url_dataset: ''
 url_poster: ''
