@@ -10,7 +10,6 @@ Conclusions
 Permethrin prescribing as an indicator of scabies is strongly associated with the incidence of ARF. Considered together with other studies, this evidence suggests that improving scabies control may reduce the burden of ARF in New Zealand.'
 author_notes:
 - Equal contribution
-- Equal contribution
 authors:
 - admin
 - Ron King
